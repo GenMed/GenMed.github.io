@@ -1,5 +1,5 @@
 title = "GenMed"
-baseURL = "https://genmed-bioml.github.io/"
+baseURL = "https://genmed.github.io/"
 languageCode = "en-us"
 
 theme = ["ananke"]

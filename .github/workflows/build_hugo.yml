@@ -1,0 +1,26 @@
+# Workflow to test that building the workflow works
+name: Build Hugo site
+
+
+on:
+  push:
+
+jobs:
+  build:
+    runs-on: ubuntu-22.04
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          submodules: true
+          fetch-depth: 0
+
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v2
+        with:
+          hugo-version: 'latest'
+          # extended: true
+
+      - name: Build
+        env:
+          HUGO_PARAMS_GOOGLEMAPSAPIKEY: ${{ secrets.GOOGLE_MAPS_API_KEY }}
+        run: hugo --minify

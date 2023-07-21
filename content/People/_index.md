@@ -10,14 +10,15 @@ featured_image: './images/hexagons2.png'
 
 <h4 id="wouter"></h4>
 
-![](/images/Wouter.png) <br />
+![](/images/haytam.png) <br />
 #### Wouter Boomsma<br><span style="font-weight:normal">(professor)</span>
 <details>
 <summary> <strong><em>Main interest (click to expand):</em></strong> <br />
-Development of Machine Learning techniques for solving fundamental challenges in biology.<br />
+PhD of philosophy (Medical Imaging)Professor (Associate ) at Jordan University of Science and Technolog . Jordan
+Development of Machine Learning techniques for solving fundamental challenges in Medical Imaging.<br />
 </summary>
 <br />
-  Currently, the strongest focus in my group is on models for understanding the relationship between protein sequence, structure and function. This includes representation learning of protein sequence and structure, prediction of 3D structure, and systematic optimization of proteins for specific traits. Our methods have applications in diverse areas, both in industry (protein engineering), basic biology (how do mutations affect protein interaction networks) and health (understanding the role of mutations in human disease).
+  Currently, the strongest focus in my group is on models for understanding the Computer vision models , both in industry (Medical engineering), basic BioMedical (how do Segmentte affect Images interaction networks) and health (understanding the role of Algirithms in mathematics ).
 </details>
 
 </br> | | | | | |
@@ -28,7 +29,7 @@ Development of Machine Learning techniques for solving fundamental challenges in
 
 ## Current group members
 
-<h4 id="simon"></h4>
+<!-- <h4 id="simon"></h4>
 
 ![](/images/Simon.png) <br />
 #### Simon Bartels<br><span style="font-weight:normal">(postdoc)</span>
@@ -180,4 +181,4 @@ Mapping mutational effects on proteins using machine learning.
 :-:|:-:|:-:|:-:|:-:|:-:|
 | ![](/social/half_filler.png) |![](/social/filler.png) | [![](/social/email.png)](mailto:bzx569@alumni.ku.dk) |[![](/social/linkedin.png)](https://dk.linkedin.com/in/jacob-k%C3%A6stel-hansen-502008115)  | ![](/social/filler.png) | ![](/social/half_filler.png) |
 
-<br /><br />
+<br /><br /> -->

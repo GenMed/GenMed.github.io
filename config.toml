@@ -1,5 +1,5 @@
 title = "GenMed"
-baseURL = "https://genmed.github.io/"
+baseURL = "https://GenMed.github.io/"
 languageCode = "en-us"
 
 theme = ["ananke"]
@@ -17,13 +17,13 @@ enableRobotsTXT = true
 
 [params]
   favicon = ""
-  site_logo = "/images/logo3.png"
-  description = "Biology and Machine Learning group at the University of Copenhagen."
+  site_logo = "/images/logo1.png"
+  description = "BioMedical and Machine Learning group at the University of Jordan."
   facebook = ""
-  twitter = "https://twitter.com/KU_BioML"
+  twitter = "https://twitter.com/ElbragYouness"
   instagram = ""
   youtube = ""
-  github = ""
+  github = "https://github.com/GenMed"
   gitlab = ""
   linkedin = ""
   mastodon = ""

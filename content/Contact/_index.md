@@ -1,14 +1,20 @@
 ---
-title: "Contact"
-description: We'd love to hear from you
-omit_header_text: true
+title: Contact
 featured_image: './images/hexagons2.png'
+omit_header_text: true
+description: We'd love to hear from you
 type: page
 menu: main
+
 ---
 
 
+ you can put right into your content. You will need to add a form action to the shortcode to make it work. Check out [Formspree](https://formspree.io/) for a simple, free form service. 
 
+{{< form-contact action="https://example.com"  >}}
+
+
+<!-- 
 We are affiliated with the University of Copenhagen (KU) and located at the "Datalogisk Institut" (DIKU).
 
 **Address:** </br>
@@ -24,4 +30,4 @@ Universitetsparken 1 </br>
 
 </br>
 
-{{< form-contact action="https://example.com"  >}}
+{{< form-contact action="https://example.com"  >}} -->

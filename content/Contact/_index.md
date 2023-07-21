@@ -1,8 +1,13 @@
 ---
 title: "Contact"
-Description: " "
+description: We'd love to hear from you
+omit_header_text: true
 featured_image: './images/hexagons2.png'
+type: page
+menu: main
 ---
+
+
 
 We are affiliated with the University of Copenhagen (KU) and located at the "Datalogisk Institut" (DIKU).
 
@@ -19,4 +24,4 @@ Universitetsparken 1 </br>
 
 </br>
 
-{{< google-maps-location height="400" location="DIKU Universitetsparken 1 Copenhagen" >}}
+{{< form-contact action="https://example.com"  >}}

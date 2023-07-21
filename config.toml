@@ -1,6 +1,7 @@
-title = "BioML"
-baseURL = "https://GenMed.github.io"
+title = "GenMed"
+baseURL = "https://genmed-bioml.github.io/"
 languageCode = "en-us"
+
 theme = ["ananke"]
 
 DefaultContentLanguage = "en"
